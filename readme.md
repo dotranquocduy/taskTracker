@@ -1,4 +1,4 @@
-<img width="575" height="497" alt="image" src="https://github.com/user-attachments/assets/6e02b58e-6ac7-4d6d-b648-60211899972e" />📌 TaskTracker
+📌 TaskTracker
 Ứng dụng quản lý công việc cá nhân, sử dụng MERN-like stack (React + Express + PostgreSQL + TypeORM).
 
 🚀 Tính năng chính
