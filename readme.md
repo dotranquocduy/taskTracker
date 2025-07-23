@@ -10,23 +10,4 @@
 
 🛠 Cấu trúc thư mục 
 
-tasktracker/
-├── backend/
-│ ├── controllers/ // Xử lý logic
-│ ├── models/ // Entity TypeORM
-│ ├── routes/ // Định nghĩa API route
-│ ├── database/ // Kết nối DB (AppDataSource)
-│ ├── middleware/ // Middleware xác thực JWT
-│ ├── server.ts // Khởi chạy server Express
-│ ├── package.json
-│ └── tsconfig.json
-├── frontend/
-│ ├── src/
-│ │ ├── pages/
-│ │ ├── components/
-│ │ ├── api/ // Gọi API (axios)
-│ │ └── App.tsx
-│ ├── package.json
-│ └── tsconfig.json
-├── README.md
-└── .env
+<img width="613" height="492" alt="image" src="https://github.com/user-attachments/assets/3287498b-b8d5-4cba-9a51-6f47e60aa12f" />
